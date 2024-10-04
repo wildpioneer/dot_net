@@ -1,0 +1,9 @@
+﻿{
+  "selenium": {
+    "arguments": [
+      "--start-maximized",
+      "--incognito",
+      "--headless"
+    ]
+  }
+}
